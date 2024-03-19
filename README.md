@@ -25,6 +25,8 @@ sur la nécessité d’être précis plutôt que rapide quitte à se corriger si
 données de temps soient pertinentes et on néglige la différence d’âge, les participants sont
 tous jeunes adultes.
 
+![image](https://github.com/estellelm38/stroop_test/assets/144695298/b3f3b911-b88a-4889-b02a-d7531c70fd3c)
+
 L’objectif de cette recherche est d’abord de montrer que le temps moyen mis pour la tâche
 Stroop incongruente est supérieur.
 hypothèse théorique : La lecture interfère sur la dénomination des couleurs
